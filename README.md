@@ -2,6 +2,8 @@
 
 Technology: Servlet, JSP, Hibernate
 
-User can post photo,content
+User can post content (photo + text) 
 
-User can follow, Like Other content, Manage profile
+User can follow, Like, comment. 
+
+Profile management. 
